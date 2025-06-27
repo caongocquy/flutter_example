@@ -1,0 +1,15 @@
+{
+  "auth": {
+    "error": "Đăng nhập thất bại",
+    "success": "Chào mừng, {user}!",
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "logout_success": "Đăng xuất thành công"
+  },
+  "locale": {
+    "select_button": "Chọn ngôn ngữ",
+    "select_title": "Chọn ngôn ngữ",
+    "nameVi": "Tiếng Việt",
+    "nameEn": "Tiếng Anh"
+  }
+}

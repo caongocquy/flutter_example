@@ -1,0 +1,15 @@
+{
+  "auth": {
+    "error": "Login failed",
+    "success": "Welcome, {user}!",
+    "login": "Login",
+    "logout": "Logout",
+    "logout_success": "Logout successful"
+  },
+  "locale": {
+    "select_button": "Select Language",
+    "select_title": "Select Language",
+    "nameVi": "Vietnamese",
+    "nameEn": "English"
+  }
+}
