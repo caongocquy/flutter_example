@@ -4,7 +4,13 @@
     "success": "Welcome, {user}!",
     "login": "Login",
     "logout": "Logout",
-    "logout_success": "Logout successful"
+    "logout_success": "Logout successful",
+    "username": "Username",
+    "username_hint": "Enter your username",
+    "email": "Email",
+    "password": "Password",
+    "email_hint": "Enter your email",
+    "password_hint": "Enter your password"
   },
   "locale": {
     "select_button": "Select Language",

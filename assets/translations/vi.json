@@ -4,7 +4,13 @@
     "success": "Chào mừng, {user}!",
     "login": "Đăng nhập",
     "logout": "Đăng xuất",
-    "logout_success": "Đăng xuất thành công"
+    "logout_success": "Đăng xuất thành công",
+    "username": "Tên đăng nhập",
+    "username_hint": "Nhập tên đăng nhập của bạn",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "email_hint": "Nhập email của bạn",
+    "password_hint": "Nhập mật khẩu của bạn"
   },
   "locale": {
     "select_button": "Chọn ngôn ngữ",

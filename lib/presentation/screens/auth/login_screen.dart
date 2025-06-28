@@ -78,8 +78,8 @@ class _LoginScreenState extends State<LoginScreen> {
                             _formKey.currentState!.validate();
                           }
                         },
-                        decoration: const InputDecoration(
-                          labelText: 'Tên đăng nhập',
+                        decoration: InputDecoration(
+                          labelText: 'auth.username'.tr(),
                           border: OutlineInputBorder(),
                         ),
                       ),
@@ -105,7 +105,7 @@ class _LoginScreenState extends State<LoginScreen> {
                           }
                         },
                         decoration: InputDecoration(
-                          labelText: 'Mật khẩu',
+                          labelText: 'auth.password'.tr(),
                           border: const OutlineInputBorder(),
                           suffixIcon: IconButton(
                             icon: Icon(
